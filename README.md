@@ -37,7 +37,6 @@ Software Engineer with experience in developing applications and websites. I can
     </picture>
     </a></p>
     <br/>
-    
 ### GitHub Stats
 
 <a href="http://www.github.com/alxndlk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alxndlk&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
