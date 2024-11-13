@@ -5,7 +5,7 @@ Software Engineer with experience in developing applications and websites. I can
 
 *   🌍  I'm based in Prague, Czech Republic
 *   ✉️  You can contact me at [livik059@gmail.com](mailto:livik059@gmail.com)
-*   🚀  I'm currently working on [MSD](http://msd.com/)
+*   🚀  I'm currently working at [MSD](http://msd.com/)
 *   Open to project collaborations
 ### Skills 
 
